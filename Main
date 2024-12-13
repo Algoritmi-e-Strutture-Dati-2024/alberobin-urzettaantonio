@@ -19,3 +19,4 @@ endl;
  cout << "\nRimuovo il nodo 3: \n";
  albero.mostraAlbero();
  return 0;
+}
